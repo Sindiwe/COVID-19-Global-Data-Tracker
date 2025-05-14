@@ -35,7 +35,7 @@ Data Import: Load the dataset using pandas.read_csv()
 
 Data Cleaning: Drop rows with critical missing values (date, location) and fill cumulative columns using ffill
 
-Filtering: Focus on selected countries (United States, South Africa, India)
+Filtering: Focus on selected countries (United States, Africa, India,Zambia,Angola, Afghanistan, Albania, Algeria, Andorra, Antigua, Austria, Botswana)
 
 Visualization: Plot total cases and deaths over time for selected countries
 
